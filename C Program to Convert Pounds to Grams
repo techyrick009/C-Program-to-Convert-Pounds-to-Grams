@@ -1,0 +1,30 @@
+
+/*
+ *  Author: Techyrick.com
+ */
+
+#include<tdio.h> 
+//#include 
+
+void main() {
+
+ float pound,gram;
+  
+
+//    clrscr();
+
+    printf("C Program to convert Pound to Gram :  ");
+
+    printf("\n\n Enter Weight in Pounds  : ");
+	scanf("%f", £);
+    
+    gram = pound*453.592;
+    
+    printf("\n\n %f Pound  =  %f Gram \n",pound,gram );
+
+
+
+//	getch();
+
+
+}
